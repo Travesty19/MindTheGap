@@ -5,7 +5,7 @@ Click on Station Icons to reveal Train Lines
 
 ![Alt text](https://s3-us-west-2.amazonaws.com/resumeimages/MtG_Map.png )
 
-Click on Arrival Icons to reveal Arrival Times
+Click on Line Icons to reveal Arrival Times
 
 ![Alt text](https://s3-us-west-2.amazonaws.com/resumeimages/MtG_AB.png )
 
