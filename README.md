@@ -2,9 +2,15 @@
 Images:
 
 Click on Station Icons to reveal Train Lines
+
 ![Alt text](https://s3-us-west-2.amazonaws.com/resumeimages/MtG_Map.png )
 
+Click on Arrival Icons to reveal Arrival Times
+
 ![Alt text](https://s3-us-west-2.amazonaws.com/resumeimages/MtG_AB.png )
+
+Arrival times updated live from the Transport for London Open Data service
+
 ![Alt text](https://s3-us-west-2.amazonaws.com/resumeimages/MtG_A.png )
 
 Instructions to run on Virtual Machine:
