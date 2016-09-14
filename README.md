@@ -1,5 +1,4 @@
 # MindTheGap
-Images:
 
 Click on Station Icons to reveal Train Lines
 
